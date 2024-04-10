@@ -37,11 +37,11 @@ ___
 ### `~# head language.py`
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
-```text
+```python
 class Languages:
   def __init__(self):
-    self.python = "Python 🐍 (imediate)"
-    self.bash = "Bash (Learning)"
+    self.python = "Python 🐍"
+    self.bash = "Bash 🔩"
     self.golang = "Golang (Learning)"
     self.future = "..."
 ```
