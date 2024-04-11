@@ -64,7 +64,7 @@ console.log(biodata.deskripsi());
 ```
 
 <div align="center">
-  <a href="https://github.com/LetnanGM/LetnanGM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=WebProfilku&theme=chartreuse-dark"></a>
+  <a href="https://github.com/LetnanGM/LetnanGM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=LetnanGM&theme=chartreuse-dark"></a>
 </div>
 
 ### Stats:
