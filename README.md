@@ -41,9 +41,11 @@ ___
 ```python
 class Languages:
   def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
+    self.python = "Python 🐍 (Intermediate)"
+    self.bash = "Bash 🔩(Learning)"
     self.golang = "Golang (Learning)"
+    self.java = "Java (Learning)"
+    self.cpp = "C++ (Learning)"
     self.future = "..."
 ```
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
