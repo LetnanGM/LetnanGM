@@ -37,7 +37,7 @@ ___
 <!-- Languages -->
 ### `~# head language.py`
 <a href="#"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=400&hide_title=true&langs_count=6"></a>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ```python
 class Languages:
@@ -110,7 +110,6 @@ public class Main {
 
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark&locale=id">
-<p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark">
 </p>
 
