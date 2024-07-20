@@ -103,7 +103,7 @@ public class Main {
 ```
 
 <div align="center">
-  /*<a href="https://github.com/LetnanGM/LetnanGM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=LetnanGM&theme=chartreuse-dark"></a>*/
+  [comment]: <> (<a href="https://github.com/LetnanGM/LetnanGM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=LetnanGM&theme=chartreuse-dark"></a>)
   <a href="https://github.com/LetnanGM/http-flood-small"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=http-flood-small&theme=chartreuse-dark"></a>
   <a href="https://github.com/LetnanGM/login_fb_with_python"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=login_fb_with_python&theme=chartreuse-dark"></a>
 </div>
