@@ -109,11 +109,11 @@ public class Main {
 </div>
 
 <div align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark&locale=id">
 
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark">
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark">
 </div>
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Maturnuwun+mpun+mampir+aring+github+kulo+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Maturnuwun;mpun+mampir+aring+github;kulo+nggeh+...&center=true"></a>
