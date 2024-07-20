@@ -108,8 +108,10 @@ public class Main {
   <a href="https://github.com/LetnanGM/login_fb_with_python"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=login_fb_with_python&theme=chartreuse-dark"></a>
 </div>
 
-<p align="center">
+<p align="left">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark&locale=id">
+/>
+<p align="right"
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark">
 </p>
 
