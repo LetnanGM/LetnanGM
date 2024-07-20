@@ -50,20 +50,55 @@ class Languages:
 ```
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-let biodata = {
-  nama: "Syafiq Aryasofa P.",
-  umur: 13,
-  profesi: "Web Developer begginer",
-  pendidikan: "SMPN 06 Petarukan ",
-  keterampilan: ["HTML", "CSS", "JavaScript (belajar)", "Python"],
-  minat: ["Pemrograman (pemula)", "Desain (belum)"],
-  deskripsi: function() {
-    return `Halo! Saya ${this.nama}, seorang ${this.profesi} berusia ${this.umur} tahun. Saya memiliki latar belakang pendidikan di bidang ${this.pendidikan} dan memiliki keterampilan dalam ${this.keterampilan.join(", ")}. Selain itu, saya juga tertarik dalam ${this.minat.join(", ")}.`;
-  }
-};
+```java
+public class Main {
+    String nama = "Syafiq Aryasofa Pangestu";
+    int umur = 13;
+    String email = "Letnan0gamedev@gmail.com"; // Niatnya mau jadi gamedev eh, laptopnya ga kuat wkwkwk :V
+    String alamat = "-";
+    String telepon = "-";
+    String hobiku = "membuat program adalah hobiku, aku membuatnya bukan untuk orang lain melainkan\nuntuk membuat diriku merasa tenang dengan banyaknya kode rumit";
 
-console.log(biodata.deskripsi());
+    public static class Pendidikan {
+        String[] pendidikan = {
+            "SMPN 6 PETARUKAN"
+        };
+
+        public void tampilkanPendidikan() {
+            for (String sekolah : pendidikan) {
+                System.out.println("Pendidikan saat ini : " + sekolah);
+            }
+        }
+    }
+
+    public static class Pengalaman {
+      String[] pengalaman = {
+        "Programmer menengah"
+      };
+
+      public void tampilkanPengalaman() {
+        for (String pengalamanku : pengalaman) {
+          System.out.println("pengalaman yang aku dapatkan di umur  ku adalah : " + pengalamanku)
+        }
+      }
+    }
+
+    public static void main(String[] args) {
+        Main mainInstance = new Main();
+        System.out.println("Nama: " + mainInstance.nama);
+        System.out.println("Umur: " + mainInstance.umur);
+        System.out.println("Alamat : " + mainInstance.alamat);
+        System.out.println("telepon: " + mainInstance.telepon);
+        System.out.pritnln("Email : " + mainInstance.email);
+
+        Pendidikan pendidikanInstance = new Pendidikan();
+        pendidikanInstance.tampilkanPendidikan();
+        Pengalaman pengalamanInstance = new Pengalaman();
+        pengalamanInstance.tampilkanPengalaman();
+        System.out.println("  ");
+        System.out.println("Hobi ku : " + mainInstance.hobiku);
+    }
+}
 ```
 
 <div align="center">
@@ -72,18 +107,6 @@ console.log(biodata.deskripsi());
   <a href="https://github.com/LetnanGM/login_fb_with_python"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=login_fb_with_python&theme=chartreuse-dark"></a>
 </div>
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - ðŸ”­ Iâ€™m currently working on RPA </br>
-    - ðŸŒ± Iâ€™m currently learning Python,SwiftUI and UIKit </br>
-    - ðŸ‘¯ Iâ€™m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - ðŸ¤” Iâ€™m looking for help with master of programming. hehe </br>
-    - ðŸ’¬ Ask me about anything.</br>
-    - ðŸ“« How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - ðŸ˜„ Pronouns: He/Him </br>
-    - âš¡ Fun fact: ... </br>
-</details>
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark&locale=id">
 <p align="center">
