@@ -114,9 +114,6 @@ public class Main {
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku+LetnanGM!;Kalian+Memang+Hebat+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Maturnuwun+mpun+mampir+aring+github+kulo+...&center=true"></a>
