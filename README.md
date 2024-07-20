@@ -7,7 +7,7 @@
 <img src="https://count.getloli.com/get/@LetnanGM?theme=moebooru" alt=":CountLoli" />
 <center>
 <p align="center">
-  <a href="https://wa.me/qr/083849804889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/qr/WhatAreYouWantToCallMe?varAnswerMeSheet&&Haha"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/Fahri Anggara saputra"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://www.youtube.com/@YOBO_TOK"><img src="https://img.shields.io/badge/YouTube-YOBO_TOK-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/Yobo_tok" /><br>
   <a name=LetnanSpy&label=VIEWS&style=flat-square&color=orange" />
