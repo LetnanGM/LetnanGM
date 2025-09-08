@@ -8,8 +8,8 @@
 <center>
 <p align="center">
   <a href="https://wa.me/qr/WhatAreYouWantToCallMe?varAnswerMeSheet&&Haha"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/Fahri Anggara saputra"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://www.youtube.com/@YOBO_TOK"><img src="https://img.shields.io/badge/YouTube-YOBO_TOK-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/Yobo_tok" /><br>
+  <a href="https://www.facebook.com/share/1AzVkZUZBH"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.youtube.com/@YOBO_TOK"><img src="https://img.shields.io/badge/YouTube-LetnanGM-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/LetnanGM" /><br>
   <a name=LetnanSpy&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/LetnanGM"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/Yobo_tok"/>
@@ -18,7 +18,6 @@
 _I_Love_Coffe_
 ___
 
-![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/1609175355_tumblr_94801ee976e91e81d8a49d4fc7a2d9e2_e5bcd5dd_540.gif)
 ![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/776ec0e4ae22eb7064b460c4836e61a8.jpg)
 
 <video>
@@ -99,6 +98,23 @@ public class Main {
     }
 }
 ```
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![LetnanGM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=chartreuse-dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=chartreuse-dark)]()  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LetnanGM&theme=chartreuse-dark)]()  
+
+</div>
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 <div align="center">
   <!---<a href="https://github.com/LetnanGM/LetnanGM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LetnanGM&repo=LetnanGM&theme=chartreuse-dark"></a>-->
