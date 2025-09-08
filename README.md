@@ -44,8 +44,6 @@ class Languages:
   def __init__(self):
     self.python = "Python 🐍 (Intermediate)"
     self.bash = "Bash 🔩(Learning)"
-    self.golang = "Golang (Learning)"
-    self.java = "Java (Learning)"
     self.cpp = "C++ (Learning)"
     self.future = "..."
 ```
@@ -54,10 +52,10 @@ class Languages:
 ```java
 public class Main {
     String nama = "Syafiq Aryasofa Pangestu";
-    int umur = 13;
+    int umur = 14;
     String email = "Letnan0gamedev@gmail.com"; // Niatnya mau jadi gamedev eh, laptopnya ga kuat wkwkwk :V
-    String alamat = "-";
-    String telepon = "-";
+    String alamat = "-"; # Mau ngopi?
+    String telepon = "-"; # Rahasia bung :D
     String hobiku = "membuat program adalah hobiku, aku membuatnya bukan untuk orang lain melainkan\nuntuk membuat diriku merasa tenang dengan banyaknya kode rumit";
 
     public static class Pendidikan {
