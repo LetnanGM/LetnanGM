@@ -2,10 +2,10 @@
 
 > Junior high student from Indonesia 🇮🇩, building backend things one commit at a time.
 
-![Python](https://img.shields.io/badge/Python-Intermediate-3B6D11?style=flat-square&logo=python&logoColor=white&labelColor=EAF3DE)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-185FA5?style=flat-square&logo=javascript&logoColor=white&labelColor=E6F1FB)
-![C++](https://img.shields.io/badge/C++-Learning-854F0B?style=flat-square&logo=cplusplus&logoColor=white&labelColor=FAEEDA)
-![Flask](https://img.shields.io/badge/Flask-Main%20framework-444441?style=flat-square&logo=flask&logoColor=white&labelColor=F1EFE8)
+![Python](https://img.shields.io/badge/Python-Intermediate-3B6D11?style=flat-square&logo=python&logoColor=dark&labelColor=EAF3DE)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-185FA5?style=flat-square&logo=javascript&logoColor=dark&labelColor=E6F1FB)
+![C++](https://img.shields.io/badge/C++-Learning-854F0B?style=flat-square&logo=cplusplus&logoColor=dark&labelColor=FAEEDA)
+![Flask](https://img.shields.io/badge/Flask-Main%20framework-444441?style=flat-square&logo=flask&logoColor=dark&labelColor=F1EFE8)
 
 ---
 
