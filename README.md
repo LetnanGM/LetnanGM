@@ -1,58 +1,32 @@
-# 👨‍💻 Backend Developer
+# 👋 Hey, I'm Syafiq
 
-Focused on scalable, clean, and maintainable code.
+> Junior high student from Indonesia 🇮🇩, building backend things one commit at a time.
+
+![Python](https://img.shields.io/badge/Python-Intermediate-3B6D11?style=flat-square&logo=python&logoColor=white&labelColor=EAF3DE)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-185FA5?style=flat-square&logo=javascript&logoColor=white&labelColor=E6F1FB)
+![C++](https://img.shields.io/badge/C++-Learning-854F0B?style=flat-square&logo=cplusplus&logoColor=white&labelColor=FAEEDA)
+![Flask](https://img.shields.io/badge/Flask-Main%20framework-444441?style=flat-square&logo=flask&logoColor=white&labelColor=F1EFE8)
 
 ---
 
-## 💡 Core Skills
+## 💡 What I work with
 
 ```yaml
 Languages:
-  - Python (Intermediate)
-  - C++ (Learning)
-  - Bash (Learning)
-  - JavaScript (Basic)
+  - Python   # intermediate
+  - JavaScript  # basic
+  - C++      # learning
+  - Bash     # learning
 
-Specialization:
-  - Backend API Development
-  - System Design
-  - Clean Architecture
-  - Authentication Systems
-
-Tools & Platforms:
-  - Flask
+Stack:
+  - Flask (backend APIs)
   - Git & GitHub
-  - VSCode
-  - Linux
+  - Linux / VSCode
 ```
 
 ---
 
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LetnanGM&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetnanGM&layout=compact&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 What I Build
-
-- 🔧 Robust backend systems
-- 📚 Educational projects
-- 🚀 Performance-optimized solutions
-- 🔐 Secure authentication systems
-
----
-
-## 🌱 Currently Learning
+## 🌱 Currently leveling up
 
 - Microservices architecture
 - Advanced design patterns
@@ -61,15 +35,37 @@ Tools & Platforms:
 
 ---
 
-## 🤝 Interested In
+## 🔧 What I build
 
-- Contributing to meaningful projects
-- Collaborating on backend solutions
-- Open source development
-- Technical mentoring
+| Thing | Why |
+|---|---|
+| Robust backend systems | because clean APIs > messy ones |
+| Auth flows | security is non-negotiable |
+| Educational projects | learning by building |
+| Performance-optimized solutions | fast > slow |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LetnanGM&style=flat-square&color=blue" alt="profile-views" />
-</p>
+## 🤝 Open to
+
+`Open source` `Backend collabs` `Meaningful projects` `Technical mentoring`
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.shion.dev/api?username=LetnanGM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=LetnanGM&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=LetnanGM&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📡 Find me
+
+[![Instagram](https://img.shields.io/badge/Instagram-syafiqueue-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/syafiqueue)
+[![YouTube](https://img.shields.io/badge/YouTube-zero0flux-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@zero0flux)
+[![Facebook](https://img.shields.io/badge/Facebook-Syafiq%20Queue-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Syafiq%20Queue)
+
+---
+
+*still learning. always building.*
